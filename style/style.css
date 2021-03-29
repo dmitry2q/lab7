@@ -1,5 +1,12 @@
+body{
+    width:800px;
+    padding-left:23%;
+    margin:0px;
+}
+
 #main{
     width:800px;
+    margin-left:-400px;
     background-image:url(C://Users/79198/Desktop/restaurant/images/fon_bg.jpg);
     background-repeat: repeat-y;
 }
@@ -69,4 +76,6 @@
     background-image:url(C://Users/79198/Desktop/restaurant/images/footer.jpg);
     background-repeat:repeat-x;
 }
+
+
 
